@@ -8,5 +8,5 @@ In this repository, for Omen+ tool you will find:
 * :x: Source code (not available)
 * :white_check_mark: [The original tool](http://drona.csa.iisc.ernet.in/~sss/tools/tool.ova) direct download link(available)  
 
-This repository was constructed by Akriti Tripathi under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr Malavika Samak and Dr Murali Krishna Ramanathan for their help in establishing this repository.
+This repository was constructed by [Akriti Tripathi] (https://github.com/akriti-tripathi) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr Malavika Samak and Dr Murali Krishna Ramanathan for their help in establishing this repository.
 
