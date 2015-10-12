@@ -6,9 +6,7 @@ This repository is not the original repository for this tool. Here are some link
 
 In this repository, for Omen+ tool you will find:
 
-
 :x:	Source code (not available)
-
 
 :white_check_mark:[The original tool](http://drona.csa.iisc.ernet.in/~sss/tools/tool.ova) direct download link(available)  
 
